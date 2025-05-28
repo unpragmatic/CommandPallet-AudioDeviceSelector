@@ -26,6 +26,24 @@
     <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Assets\ico3004.ico" />
+    <Content Include="Assets\ico3010.ico" />
+    <Content Include="Assets\ico3011.ico" />
+    <Content Include="Assets\ico3012.ico" />
+    <Content Include="Assets\ico3013.ico" />
+    <Content Include="Assets\ico3014.ico" />
+    <Content Include="Assets\ico3015.ico" />
+    <Content Include="Assets\ico3016.ico" />
+    <Content Include="Assets\ico3017.ico" />
+    <Content Include="Assets\ico3018.ico" />
+    <Content Include="Assets\ico3019.ico" />
+    <Content Include="Assets\ico3020.ico" />
+    <Content Include="Assets\ico3021.ico" />
+    <Content Include="Assets\ico3030.ico" />
+    <Content Include="Assets\ico3031.ico" />
+    <Content Include="Assets\ico3050.ico" />
+    <Content Include="Assets\ico3051.ico" />
+    <Content Include="Assets\ico3052.ico" />
   </ItemGroup>
 
   <ItemGroup>
@@ -71,5 +89,14 @@
 
     <PublishTrimmed>false</PublishTrimmed>
     <PublishSingleFile>true</PublishSingleFile>
+    <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
+    <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
+    <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
+    <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
+    <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
+    <GenerateTestArtifacts>True</GenerateTestArtifacts>
+    <AppxBundle>Never</AppxBundle>
+    <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
+    <PackageCertificateThumbprint>4FF9FC7D03E2E535953D2BCD44CB65A8C688D52B</PackageCertificateThumbprint>
   </PropertyGroup>
 </Project>
