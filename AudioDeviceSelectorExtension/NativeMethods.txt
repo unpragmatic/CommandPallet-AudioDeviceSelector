@@ -1,0 +1,10 @@
+IMMDeviceEnumerator
+IMMDevice
+IMMDeviceCollection
+IPropertyStore
+PROPVARIANT
+PROPERTYKEY
+PKEY_Device_FriendlyName
+PKEY_DeviceInterface_FriendlyName
+PKEY_DeviceClass_IconPath
+CoCreateInstance
